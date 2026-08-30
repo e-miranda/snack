@@ -1,0 +1,6 @@
+{
+  "name": "Snack IMPERIO",
+  "description": "Sistema completo para Snack IMPERIO con Punto de Venta, Control de Caja, KDS Cocina, Panel Administrativo, Inventario, Facturación y sincronización en tiempo real.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
